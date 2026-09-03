@@ -1,0 +1,29 @@
+2026-09-03 21:26:03,793 | WARNING  | discord.client | davey is not installed, voice will NOT be supported
+2026-09-03 21:26:03,793 | INFO     | discord.client | logging in using static token
+2026-09-03 21:26:05,042 | INFO     | mlbb-bot.database | Применена миграция 001_initial.sql
+2026-09-03 21:26:05,048 | INFO     | mlbb-bot.database | Применена миграция 002_indexes.sql
+2026-09-03 21:26:05,052 | INFO     | mlbb-bot.database | Применена миграция 003_queue.sql
+2026-09-03 21:26:05,054 | INFO     | mlbb-bot.database | Применена миграция 004_draft_deadline.sql
+2026-09-03 21:26:05,057 | INFO     | mlbb-bot.database | Применена миграция 005_confirm_notified.sql
+2026-09-03 21:26:05,065 | INFO     | mlbb-bot.database | Применена миграция 006_economy.sql
+2026-09-03 21:26:05,070 | INFO     | mlbb-bot.database | Применена миграция 007_economy_fix.sql
+2026-09-03 21:26:05,074 | INFO     | mlbb-bot.database | Применена миграция 008_vc_nonnegative.sql
+2026-09-03 21:26:05,074 | INFO     | mlbb-bot.database | База данных подключена: database.db
+2026-09-03 21:26:05,083 | INFO     | mlbb-bot | Загружен ког: cogs.registration
+2026-09-03 21:26:05,096 | INFO     | mlbb-bot | Загружен ког: cogs.game
+2026-09-03 21:26:05,101 | INFO     | mlbb-bot | Загружен ког: cogs.results
+2026-09-03 21:26:05,103 | INFO     | mlbb-bot | Загружен ког: cogs.voice
+2026-09-03 21:26:05,126 | INFO     | mlbb-bot | Загружен ког: cogs.profile
+2026-09-03 21:26:05,129 | INFO     | mlbb-bot | Загружен ког: cogs.leaderboard
+2026-09-03 21:26:05,136 | INFO     | mlbb-bot | Загружен ког: cogs.admin
+2026-09-03 21:26:05,145 | INFO     | mlbb-bot | Загружен ког: cogs.queue
+2026-09-03 21:26:05,149 | INFO     | mlbb-bot | Загружен ког: cogs.shop
+2026-09-03 21:26:05,157 | INFO     | mlbb-bot | Загружен ког: cogs.casino
+2026-09-03 21:26:05,479 | INFO     | mlbb-bot | Синхронизировано 14 команд в гильдию 1503786391631564843
+2026-09-03 21:26:06,503 | INFO     | discord.gateway | Shard ID None has connected to Gateway (Session ID: 673c99146b53c7d71538c9234df2b245).
+2026-09-03 21:26:08,510 | INFO     | mlbb-bot | Бот запущен как v a l h a l l a#8079 (ID: 1543374159344701450)
+2026-09-03 21:26:08,510 | INFO     | mlbb-bot.health | Health endpoint listening on 0.0.0.0:8080
+2026-09-03 21:26:08,510 | INFO     | mlbb-bot | Активен на 2 сервере(ах)
+2026-09-03 21:26:08,520 | INFO     | mlbb-bot.backup | Создан бэкап базы данных: backups\backup_2026-09-03.db
+2026-09-03 21:26:23,525 | INFO     | mlbb-bot.database | Зарегистрирован новый игрок: discord_id=1307406283158061098 mlbb_id=1111111
+2026-09-03 21:27:13,864 | INFO     | mlbb-bot.database | Соединение с базой данных закрыто
